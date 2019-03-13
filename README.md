@@ -1,12 +1,24 @@
 Countries of the World App
 
 # Countries of the World App
-A simple application to view the countries of the world using the [REST Countries API](https://restcountries.eu/) written in React.
+A simple application to view the countries of the world using the [REST Countries API](https://restcountries.eu/) written in React and Redux.
 
-## You can run this local by doing the following:
-1. You’ll need to have Node 8.10.0 or later on your local development machine .
-2. `npm start`
-3. Open http://localhost:3000 to view it in the browser.
+## On mac or linux you can run this local by doing the following:
+1. Install Docker
+2. Install git
+3. Install [Opctl](https://opctl.io/docs/getting-started/opctl.html)
+5. Open a terminal
+6. Run: git clone https://github.com/danielgarcia/Countries-of-the-World
+7. cd Countries-of-the-World
+8. Run: opctl run debug
+   - It will download the needed containers and run them.
+   - It will build the frontend bundle.
+   - It will launch the bundle on an Nginx container.
+9.  You are done, use http://localhost/
+
+## To stop the service
+1. Ctrl+C on the terminal.
+   - This will stop and remove the containers.
 
 ## Screenshots
 
