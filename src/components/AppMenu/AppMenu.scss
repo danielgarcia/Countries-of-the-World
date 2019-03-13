@@ -33,10 +33,10 @@
       span {
         position: relative;
         transition: all $fast;
-        &.s {
+        &.c {
           right: -5px;
         }
-        &.n {
+        &.w {
           bottom: -10px;
           left: -5px;
         }
@@ -65,7 +65,7 @@
       .logo {
         margin-bottom: 40px;
 
-        &:hover .n, &:hover .s{
+        &:hover .c, &:hover .w{
           background-image: -webkit-gradient(linear,left top,right top,color-stop(0,#D68AB0),color-stop(0.25,#D8CE5D),color-stop(0.5,#6BD85D),color-stop(0.75,#5DB9D8),color-stop(1,#D85DCB));
           background-image: -webkit-linear-gradient(left,#D68AB0 0%,#D8CE5D 25%,#6BD85D 50%,#5DB9D8 75%,#D85DCB 100%);
           background-size: 1000% 1000%;

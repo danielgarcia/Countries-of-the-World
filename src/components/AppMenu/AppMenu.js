@@ -11,7 +11,7 @@ class AppMenu extends React.Component {
         return (
             <div className="app-menu">
                 <ul className="nav-list">
-                    <li className="logo" title="Snack Nation"><span className="s">S</span><span className="n">N</span></li>
+                    <li className="logo" title="Countries Of The World"><span className="c">C</span><span className="w">W</span></li>
                     <li><Link to={routes.Home}><i className="fas fa-globe"></i></Link></li>
                 </ul>
             </div>
