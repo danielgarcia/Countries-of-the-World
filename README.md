@@ -15,7 +15,7 @@ A simple application to view the countries of the world using the [REST Countrie
 <img src='https://raw.githubusercontent.com/danielgarcia/Countries-of-the-World/master/homepage.png' width='600' alt='Homepage'>
 </p>
 
-### Contry Page
+### Country Page
 <p align='left'>
 <img src='https://raw.githubusercontent.com/danielgarcia/Countries-of-the-World/master/country_page.png' width='600' alt='Countries Page'>
 </p>
