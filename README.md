@@ -1,6 +1,5 @@
-Countries of the World App
+# [Countries of the World App](http://countries.dagasoft.com) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/facebook/react/blob/master/LICENSE)
 
-# Countries of the World App
 A simple application to view the countries of the world using the [REST Countries API](https://restcountries.eu/) written in React and Redux.
 
 ## On mac or linux you can run this local by doing the following:
