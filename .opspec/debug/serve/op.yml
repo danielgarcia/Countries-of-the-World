@@ -6,7 +6,7 @@ inputs:
       default: .
 run:
   container:
-    name: miniurl
+    name: countries
     image: { ref: 'nginx:1.15' }
     files:
       '/etc/nginx/nginx.conf': $(/nginx.conf)
